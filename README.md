@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, Python, or web development.  
 - 📫 How to reach me: [sujitbhendarkar2003@gmail.com] or connect with me on LinkedIn.  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love solving puzzles and playing chess—strategies are my thing!  
+- ⚡ Fun fact: I love solving puzzles and strategic games are my thing!  
 
 <!---
 Thesujit/Thesujit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
